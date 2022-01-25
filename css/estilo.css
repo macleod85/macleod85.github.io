@@ -1,0 +1,13 @@
+/*estilo.css*/
+
+h1 {font-size: 42px;
+	text-align: center;
+	font-family: Roboto;
+
+}
+
+body{
+	background-color: rgb(230, 255, 240);
+	padding-top: 50px;
+	
+}
