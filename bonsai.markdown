@@ -13,8 +13,8 @@ Logo comecei a pesquisar, ler, assistir vídeos relacionados e me interessei cad
 E no meu blog partilho minhas experiências, pesquisas e informações sobre este universo encantador do bonsai!
 
 Aqui você encontrará o acesso ao meu blog [Bonsai Aprendiz](https://blog.bonsaiaprendiz.com.br){:target="_blank"}.
-[![Bonsai Aprendiz](/assets/img/BonsaiAprendiz.png){: .align-right}](https://blog.bonsaiaprendiz.com.br){:target="_blank"}
+[![Bonsai Aprendiz](https://www.leandronagata.com.br/assets/img/BonsaiAprendiz.png){: .align-right}](https://blog.bonsaiaprendiz.com.br){:target="_blank"}
 
-Siga também nosso [![Instagram](/assets/img/instagram.png){: width="50" }](https://www.instagram.com/aprendizdomiyagi){:target="_blank"}
+Siga também nosso [![Instagram](https://www.leandronagata.com.br/assets/img/instagram.png){: width="50" }](https://www.instagram.com/aprendizdomiyagi){:target="_blank"}
 
 

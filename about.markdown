@@ -18,7 +18,7 @@ Nas horas vagas componho (podem conferir meu trabalho nas principais plataformas
 
 Apaixonado por retro-gaming principalmente jogos de estilo de luta, beat'em up e J-RPG .
 
-<img src="/assets/img/me.jpg" width="200" height="200" style="border-radius: 50%;object-fit:cover;" alt-text="Esse cara sou eu!!!">
+<img src="https:/www.leandronagata.com.br/assets/img/me.jpg" width="200" height="200" style="border-radius: 50%;object-fit:cover;" alt-text="Esse cara sou eu!!!">
 
 [//]:![](/assets/img/me.jpg){: width="200" ;  style=border-radius:50%}{: }
 

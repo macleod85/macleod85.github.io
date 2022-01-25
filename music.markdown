@@ -12,8 +12,8 @@ Aqui você pode conhecer melhor meu trabalho relacionado a música.
 
 Discografia:
 
-[![2020 - From the Vault](/assets/img/discog/fromtv.jpg){: width="200" }](https://ffm.bio/jygvjrj){:target="_blank"} 2020 - From the Vault
+[![2020 - From the Vault](https://www.leandronagata.com.br/assets/img/discog/fromtv.jpg){: width="200" }](https://ffm.bio/jygvjrj){:target="_blank"} 2020 - From the Vault
 
-[![2020 - Kono Yaiba no uta ga](/assets/img/discog/kono.jpg){: width="200" }](https://ffm.bio/jygvjrj){:target="_blank"} 2020 - Kono Yaiba no Uta ga
+[![2020 - Kono Yaiba no uta ga](https://www.leandronagata.com.br/assets/img/discog/kono.jpg){: width="200" }](https://ffm.bio/jygvjrj){:target="_blank"} 2020 - Kono Yaiba no Uta ga
 
-[![2020 - Abominação](/assets/img/discog/abomi.jpg){: width="200" }](https://ffm.bio/jygvjrj){:target="_blank"} 2020 - Abominação
+[![2020 - Abominação](https://www.leandronagata.com.br/assets/img/discog/abomi.jpg){: width="200" }](https://ffm.bio/jygvjrj){:target="_blank"} 2020 - Abominação
