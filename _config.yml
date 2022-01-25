@@ -19,17 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Leandro Nagata
-email: contato@leandronagata.com.br
+#email: contato@leandronagata.com.br
 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
+description:
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
+  "Site oficial do Leandro Nagata: professor, músico, bonsaista e piadista ruim"
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.leandronagata.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leandronagata
-github_username:  jekyll
+#github_username:  jekyll
 #instagram_username: leandronagata1985
 instagram_username: nagata.sensei
+linkedin_username: leandronagata
+#permalink: blog.bonsaiaprendiz.com.br
 # Build settings
 #theme: minima
 plugins:
@@ -54,7 +60,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-=======
+#=======
 #remote_theme: benbalter/retlab
-theme: jekyll-theme-tactile
+#remote_theme: jekyll-theme-tactile
+theme: minima
 
+
+# Apply this change to _config.yml file
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true

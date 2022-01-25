@@ -3,4 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+#title: Leandro Nagata
+#permalink: /home/
 ---
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+Bem vindos ao meu site oficial!!!
+
+Espero que vocês curtam o conteúdo disponível aqui.
