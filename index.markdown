@@ -9,4 +9,6 @@ layout: home
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 Bem vindos ao meu site oficial!!!
 
+Aqui vocês poderão conhecer meu trabalho como professor, músico e aprendiz de bonsaísta.
+
 Espero que vocês curtam o conteúdo disponível aqui.
