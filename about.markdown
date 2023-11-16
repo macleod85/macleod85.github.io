@@ -4,6 +4,9 @@ title: Sobre mim
 permalink: /about/
 ---
 
+<p align="center><img src="https://www.leandronagata.com.br/assets/img/me.jpg" width="200" height="200" style="border-radius: 50%;object-fit:cover;" alt-text="Esse cara sou eu!!!"></p>
+
+[//]:![](/assets/img/me.jpg){: width="200" ;  style=border-radius:50%}{: }
 Me chamo Leandro Ferreira Nagata, tenho 36 anos, Técnologo Mecânico com MBA em Gestão Empresarial e Marketing.
 
 Entusiasta da tecnologia, da guitarra, bonsais e de piadas ruins.
@@ -18,9 +21,7 @@ Nas horas vagas componho (podem conferir meu trabalho nas principais plataformas
 
 Apaixonado por retro-gaming principalmente jogos de estilo de luta, beat'em up e J-RPG .
 
-<img src="https://www.leandronagata.com.br/assets/img/me.jpg" width="200" height="200" style="border-radius: 50%;object-fit:cover;" alt-text="Esse cara sou eu!!!">
 
-[//]:![](/assets/img/me.jpg){: width="200" ;  style=border-radius:50%}{: }
 
 
 [//]:This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
