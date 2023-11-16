@@ -4,7 +4,7 @@ title: Sobre mim
 permalink: /about/
 ---
 
-<p align="center><img src="https://www.leandronagata.com.br/assets/img/me.jpg" width="200" height="200" style="border-radius: 50%;object-fit:cover;" alt-text="Esse cara sou eu!!!"></p>
+<p align="center"><img src="https://www.leandronagata.com.br/assets/img/me.jpg" width="200" height="200" style="border-radius: 50%;object-fit:cover;" alt-text="Esse cara sou eu!!!"></p>
 
 [//]:![](/assets/img/me.jpg){: width="200" ;  style=border-radius:50%}{: }
 Me chamo Leandro Ferreira Nagata, tenho 36 anos, Técnologo Mecânico com MBA em Gestão Empresarial e Marketing.
